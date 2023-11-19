@@ -1,0 +1,1 @@
+Esse pequeno programa, realiza o calculo sobre quantas vitórias menos quantas derrotas o personagem teve durante uma partida.
